@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;700&family=Nunito+Sans:ital,opsz,wght@0,6..12,786;1,6..12,786&family=Poppins:wght@200;400;500;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&family=Montserrat:wght@400;500;700&family=Nunito+Sans:ital,opsz,wght@0,6..12,786;1,6..12,786&family=Poppins:wght@200;400;500;600;700;800;900&display=swap');
+
+body {
+    font-family: 'Manrope', sans-serif;
+    font-size: 1em;
+    background-color:#1f2039;
+}
+
+
+a {
+    color: #242424;
+    text-decoration: none;    
+}
+
+.profesionna {
+    color: #A5B4FC;
+}
+h1 {
+    font-size: 3,5em;
+    color: #A5B4FC;
+    font-family: "Montserrat", sans-serif;
+}
+
+h2 {
+    color:  #f9f8ff;
+}
+
+p,
+li {
+    font-size: 1.1em;
+    color:  #f9f8ff;
+}
+
+.entete,
+.pied-de-page {
+    background-color: white;
+}
+
+.cta {
+    background: linear-gradient(#8e86b5, #acaeed);
+    color: white;
+}
+
